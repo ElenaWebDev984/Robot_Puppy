@@ -1,3 +1,9 @@
+// 0 -> I’m tired and sleeping!
+// 20 -> I’m hungry! Hurry up and feed me!
+// > 50 -> I’m sad! Pat me!
+// > 70 -> I’m happy! Let’s play!
+
+// step energy -10
 
         let energy = 100;
         const statusMessage = document.getElementById('message');
